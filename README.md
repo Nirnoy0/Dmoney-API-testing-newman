@@ -11,7 +11,9 @@ How to run this project
 - Open with any code editor (Ex-VS Code) and open terminal inside the project folder
 - Give the following command
 - only run collection json file you should following the command below
-- npm install/ npm i or yarn install
+- ...bash 
+  npm install/ npm i or yarn install
+  ...
 - npx newman run .collection/assignment-api.json
 - npm test or yarn test
 
