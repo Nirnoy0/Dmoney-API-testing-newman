@@ -13,7 +13,7 @@ How to run this project
 - only run collection json file you should following the command below
 - ...bash 
   npm install/ npm i or yarn install
-  ...
+ ...
 - npx newman run .collection/assignment-api.json
 - npm test or yarn test
 
