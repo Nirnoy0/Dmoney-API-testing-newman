@@ -5,7 +5,7 @@
 # API Testing Postman Collection  [https://www.getpostman.com/collections/940f9d6bc9f4ed4f8b65]
 # API Testing Postman Documentation  [https://documenter.getpostman.com/view/21485349/UzBqojzv]
 
-(https://documenter.getpostman.com/view/21485349/UzBqojzv)) [!API Testing Postman Documentation]
+[API Testing Postman Documentation](https://documenter.getpostman.com/view/21485349/UzBqojzv)
 
 How to run this project
 01 Clone this project
