@@ -2,7 +2,7 @@
 
 ## Automate Dmoney API by Postman & report genarated by Newman.
 
-# [API Testing Postman Collection]  (https://www.getpostman.com/collections/940f9d6bc9f4ed4f8b65)
+# [API Testing Postman Collection](https://www.getpostman.com/collections/940f9d6bc9f4ed4f8b65)
 
 ## [API Testing Postman Documentation](https://documenter.getpostman.com/view/21485349/UzBqojzv)
 
