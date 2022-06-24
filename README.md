@@ -1,4 +1,4 @@
-# Dmoney-API-testing-newman
+# API Testing with Postman
 
 ## Automate Dmoney API by Postman & report genarated by Newman.
 
