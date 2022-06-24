@@ -1,19 +1,19 @@
 # API Testing with Postman
 
-## Automate Dmoney API by Postman & report genarated by Newman.
+### Automate Dmoney API by Postman & report genarated by Newman.
 
-## [API Testing Postman Collection](https://www.getpostman.com/collections/940f9d6bc9f4ed4f8b65)
+### [API Testing Postman Collection](https://www.getpostman.com/collections/940f9d6bc9f4ed4f8b65)
 
-## [API Testing Postman Documentation](https://documenter.getpostman.com/view/21485349/UzBqojzv)
+### [API Testing Postman Documentation](https://documenter.getpostman.com/view/21485349/UzBqojzv)
 
 How to run this project
-01 - Clone this project
-02 - Open with any code editor (Ex-VS Code) and open terminal inside the project folder
-03 - Give the following command
-04 - only run collection json file you should following the command below
-05 - npm install/ npm i or yarn install
-06 - npx newman run .collection/assignment-api.json
-07 - npm test or yarn test
+- Clone this project
+-Open with any code editor (Ex-VS Code) and open terminal inside the project folder
+-Give the following command
+only run collection json file you should following the command below
+ npm install/ npm i or yarn install
+- npx newman run .collection/assignment-api.json
+- - npm test or yarn test
 
 Reports Preview Below
 
